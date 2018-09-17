@@ -1,2 +1,1 @@
-# DanceSteps
-DanceSteps Project: Open-Source base for Unity Musical games
+# DanceSteps Framework: For Unity musical games.
